@@ -1,0 +1,17 @@
+D:\reposVegas\Appliphoto\ApplicationPhotoV1\ApplicationPhotoV1\obj\Debug\net6.0-windows\ApplicationPhotoV1.csproj.AssemblyReference.cache
+D:\reposVegas\Appliphoto\ApplicationPhotoV1\ApplicationPhotoV1\obj\Debug\net6.0-windows\ApplicationPhotoV1.Form1.resources
+D:\reposVegas\Appliphoto\ApplicationPhotoV1\ApplicationPhotoV1\obj\Debug\net6.0-windows\ApplicationPhotoV1.csproj.GenerateResource.cache
+D:\reposVegas\Appliphoto\ApplicationPhotoV1\ApplicationPhotoV1\obj\Debug\net6.0-windows\ApplicationPhotoV1.GeneratedMSBuildEditorConfig.editorconfig
+D:\reposVegas\Appliphoto\ApplicationPhotoV1\ApplicationPhotoV1\obj\Debug\net6.0-windows\ApplicationPhotoV1.AssemblyInfoInputs.cache
+D:\reposVegas\Appliphoto\ApplicationPhotoV1\ApplicationPhotoV1\obj\Debug\net6.0-windows\ApplicationPhotoV1.AssemblyInfo.cs
+D:\reposVegas\Appliphoto\ApplicationPhotoV1\ApplicationPhotoV1\obj\Debug\net6.0-windows\ApplicationPhotoV1.csproj.CoreCompileInputs.cache
+D:\reposVegas\Appliphoto\ApplicationPhotoV1\ApplicationPhotoV1\bin\Debug\net6.0-windows\ApplicationPhotoV1.exe
+D:\reposVegas\Appliphoto\ApplicationPhotoV1\ApplicationPhotoV1\bin\Debug\net6.0-windows\ApplicationPhotoV1.deps.json
+D:\reposVegas\Appliphoto\ApplicationPhotoV1\ApplicationPhotoV1\bin\Debug\net6.0-windows\ApplicationPhotoV1.runtimeconfig.json
+D:\reposVegas\Appliphoto\ApplicationPhotoV1\ApplicationPhotoV1\bin\Debug\net6.0-windows\ApplicationPhotoV1.dll
+D:\reposVegas\Appliphoto\ApplicationPhotoV1\ApplicationPhotoV1\bin\Debug\net6.0-windows\ApplicationPhotoV1.pdb
+D:\reposVegas\Appliphoto\ApplicationPhotoV1\ApplicationPhotoV1\obj\Debug\net6.0-windows\ApplicationPhotoV1.dll
+D:\reposVegas\Appliphoto\ApplicationPhotoV1\ApplicationPhotoV1\obj\Debug\net6.0-windows\refint\ApplicationPhotoV1.dll
+D:\reposVegas\Appliphoto\ApplicationPhotoV1\ApplicationPhotoV1\obj\Debug\net6.0-windows\ApplicationPhotoV1.pdb
+D:\reposVegas\Appliphoto\ApplicationPhotoV1\ApplicationPhotoV1\obj\Debug\net6.0-windows\ApplicationPhotoV1.genruntimeconfig.cache
+D:\reposVegas\Appliphoto\ApplicationPhotoV1\ApplicationPhotoV1\obj\Debug\net6.0-windows\ref\ApplicationPhotoV1.dll
