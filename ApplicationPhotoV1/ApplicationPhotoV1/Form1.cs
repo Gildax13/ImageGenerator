@@ -62,7 +62,7 @@ namespace ApplicationPhotoV1
                     {
 
                         Bitmap image = new Bitmap(imageDir);
-                        image = ResizeBitmap(image,image.Width/4,image.Height/4);
+                        image = ResizeBitmap(image,image.Width,image.Height);
                         Array.Resize(ref images, images.Length + 1);
 
                         images[currentImage++] = image;
@@ -120,15 +120,6 @@ namespace ApplicationPhotoV1
 
         }
 
-        private void button2_Click(object sender, EventArgs e) //Lancer la crééation
-        {
-            if (pictureBox1.Image != null)
-            {
-                updateImage();
-            }
-
-        }
-
         private int getWidthOfImage(Bitmap image)
         {
             // Get the width of the image
@@ -149,24 +140,6 @@ namespace ApplicationPhotoV1
             Bitmap image = new Bitmap(pictureBox1.ImageLocation);
             int width = getWidthOfImage(image);
             int height = getHeightOfImage(image);
-
-
-
-            numericUpDown1.Value = width;
-            numericUpDown2.Value = height;
-
-            textBox1.Text = "L = " + width + " H = " + height;
-
-
-
-        }
-        private void updateImage()
-        {
-            Bitmap image = (Bitmap)pictureBox1.Image;
-            int width = (int)numericUpDown1.Value;
-            int height = (int)numericUpDown2.Value;
-            Bitmap newImage = new Bitmap(image, width, height);
-            pictureBox1.Image = newImage;
         }
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
